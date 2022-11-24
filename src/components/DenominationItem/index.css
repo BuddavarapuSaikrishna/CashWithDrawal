@@ -1,0 +1,18 @@
+/* Write your CSS here */
+
+.list-container {
+  list-style: none;
+  display: flex;
+  padding: 10px;
+  width: 45%;
+}
+
+.denomination-button {
+  padding: 20px;
+  width: 100%;
+  border-radius: 4px;
+  background-color: #382f5a;
+  border: 2px solid #ffffff;
+  font-size: 30px;
+  color: #ffffff;
+}
